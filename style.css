@@ -1,0 +1,231 @@
+#first{
+    color: rgb(243, 245, 248);
+    text-align: center;
+    word-spacing: 15px;
+}
+#box1{
+    height: 80px;
+    width:3000;
+    align-items: end;
+    position: relative;
+    background: linear-gradient(rgb(229, 192, 229),rgba(217, 13, 217, 0.912),black);
+    align-content: center;
+    
+} 
+#second{
+    color: rgb(251, 251, 14, 0.958);
+
+    text-align: center;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: bold;
+       }
+
+       #second1{
+    color: rgba(251, 251, 14, 0.958);
+    
+    text-align: center;
+    font-family:Arial;
+    align-content: center;
+   }
+    #box2{
+    height: 450px;
+    width:3100;
+    align-items: end;
+    position: relative;
+     background-image:url("https://images.pexels.com/photos/355952/pexels-photo-355952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position:left center;  
+    align-content: center;
+}
+#box3{
+
+    height:200px;
+    width:3000;
+    align-items: center;
+    position: relative;
+    background-color: rgba(255, 153, 0, 0.6);
+    margin-top: 10px;
+    background-image:url("https://images.pexels.com/photos/6177607/pexels-photo-6177607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: left center;
+    align-content: center;
+}
+
+#Third{
+    text-align: center;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: bold;
+    color: rgb(31, 31, 32);
+}
+#Third1{
+    color: rgba(14, 14, 13, 0.958);
+    text-align: center;
+    font-family:Arial;
+   align-content: center;
+   }
+
+   #box4{
+    height: 400px;
+    width:3000;
+    position: relative;
+    background-image:url("https://images.pexels.com/photos/2882670/pexels-photo-2882670.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-repeat:no-repeat;
+    background-size: cover;
+    align-content: center;
+   }
+
+    .flex-container1{
+        display: flex;
+        background-color: rgb(216, 215, 215);
+        color: azure;   
+        
+#head1{
+    color: #171515;
+    font-size:19px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bold;
+    align-content: end;
+    justify-content: center;
+    text-align:center;
+    position: relative;
+    left:50px;
+    top: 1px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+}    
+
+        height: 220px;
+        width: 220px;
+        position: relative;
+        left:800px;
+        top: 10px;
+        
+
+    #item1 {
+        margin: auto;
+        padding: auto;
+        width:180px;
+        height:180px;
+    background-color: #191717;
+    background-image:url("https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position:center;
+    position: relative;
+    right:40px;
+    bottom: 15px;   
+    }
+       }
+
+       .flex-container2{
+        display: flex;
+        background-color: rgb(216, 215, 215);
+        color: azure;   
+        #head2{
+            color: #141313;
+            font-size:19px;
+            font-family:'Times New Roman', Times, serif;
+            font-weight:bold;
+            align-content: end;
+            justify-content: center;
+            text-align:center;
+            position: relative;
+            left:50px;
+            top: 1px;
+            margin-top: 3px;
+            margin-bottom: 2px;
+        }    
+        height: 220px;
+        width: 220px;
+        position: relative;
+        left:1100px;
+        bottom: 210px;
+          
+        #item2 {
+            margin: auto;
+            padding: auto;
+            width:180px;
+            height:180px;
+        background-color: #7e1313;
+        background-image:url("https://images.pexels.com/photos/256502/pexels-photo-256502.jpeg?cs=srgb&dl=pexels-pixabay-256502.jpg&fm=jpg&_gl=1*1axqpel*_ga*MTgzMTk0OTU3NS4xNzI5NjY2MTgz*_ga_8JE65Q40S6*MTczNTcyMzI2MC45LjEuMTczNTcyMzI5Ny4wLjAuMA");
+        background-repeat:no-repeat;
+        background-size: cover;
+        background-position:center;
+        position: relative;
+        right:40px;
+        bottom: 15px;
+        }
+         
+        }
+          
+        .flex-container3{
+            display: flex;
+            background-color: rgb(216, 215, 215);
+            color: azure;   
+            
+    #head3{
+        color: #1a1918;
+        font-size:19px;
+        font-family:'Times New Roman', Times, serif;
+        font-weight:bold;
+        align-content: end;
+        justify-content: center;
+        text-align:center;
+        position: relative;
+        left:50px;
+        top: 1px;
+        margin-top: 3px;
+        margin-bottom: 2px;
+    }    
+    
+            height: 220px;
+            width: 220px;
+            position: relative;
+            left:1400px;
+            bottom: 432px;
+            
+    
+        #item3 {
+            margin: auto;
+            padding: auto;
+            width:180px;
+            height:180px;
+        background-color: #e21212;
+        background-image:url("https://images.pexels.com/photos/574080/pexels-photo-574080.jpeg?auto=compress&cs=tinysrgb&w=600");
+        background-repeat:no-repeat;
+        background-size: cover;
+        background-position:center;
+        position: relative;
+        right:40px;
+        bottom: 15px;
+    
+         
+        }
+        }
+       
+#Forth{
+    text-align: center;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: bold;
+    color: yellow;
+    
+}
+   
+
+#box5{
+    height: 100px;
+    width:2500;
+    background-color: black;
+    align-content: center;
+    #foot{
+    color: rgba(251, 251, 14, 0.958);
+    text-align: center;
+    font-family:Arial;
+    align-content: center;
+   }
+}
